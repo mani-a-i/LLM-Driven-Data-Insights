@@ -1,5 +1,4 @@
-# nl_to_pd
-# Natural Language to Pandas
+# LLM-Driven Data Insights:Advanced Prompt Engineering in a ChatBot using DeepSeek and MagicCoder LLMs.
 
 This chatbot converts Natural Language inputs from users to Pandas code and also executes the outputted code on the dataset uploaded by the user. It is a user-friendly Conversational chatbot utilizing prompt engineering and few-shot prompting techniques.
 
