@@ -7,5 +7,5 @@ Users upload CSV files and interact in Natural Language with the bot to perform 
 
 It is helpful for individuals with limited programming knowledge to independently analyze data.
 
-For trial, Execute app3.py 
+For trial, Execute app.py 
 
